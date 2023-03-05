@@ -1,2 +1,2 @@
 # GirlsWhoCodeAI
-Website for Girls Who Code AI competition
+WIP website for Girls Who Code AI competition
